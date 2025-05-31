@@ -1,6 +1,6 @@
 # Battle of Haldighati Historical Archive
 
-![Battle of Haldighati](src="[https://github.com/aayushsh2003/The-Battle-of-Haldighati/blob/main/public/hero.jpg?raw=true](https://battle-of-haldighati.vercel.app/hero_main.jpg)") 
+![Battle of Haldighati](https://battle-of-haldighati.vercel.app/hero_main.jpg) 
 
 ## Overview
 
