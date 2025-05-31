@@ -154,7 +154,7 @@ const LegacyPage: React.FC = () => {
             
             <div className="my-8 flex justify-center">
               <img 
-                src="https://images.pexels.com/photos/6670704/pexels-photo-6670704.jpeg" 
+                src="../../chetak-memorial.jpg" 
                 alt="Memorial similar to those honoring Maharana Pratap"
                 className="rounded-lg shadow-lg max-w-2xl"
               />

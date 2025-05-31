@@ -59,7 +59,7 @@ export const historicalImages: HistoricalImage[] = [
     id: "chetak-memorial",
     title: "Memorial of Chetak",
     description: "Photograph of the memorial erected in honor of Chetak, Maharana Pratap's loyal horse who carried him to safety despite being mortally wounded. The memorial is located near the battlefield at Haldighati.",
-    imageUrl: "https://images.pexels.com/photos/6670704/pexels-photo-6670704.jpeg",
+    imageUrl: "../../chetak-memorial.jpg",
     attribution: "Archaeological Survey of India",
     period: "Modern (commemorating 1576 event)",
     citationIds: ["sharma1954"]
